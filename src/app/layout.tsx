@@ -14,7 +14,9 @@ export const metadata: Metadata = {
   },
 };
 
+
 import TopMenu from "@/components/TopMenu";
+import ScrollToTopButton from "@/components/ScrollToTopButton";
 
 export default function RootLayout({
   children,
@@ -26,6 +28,7 @@ export default function RootLayout({
       <body className="bg-white text-gray-900 antialiased">
         <TopMenu />
         <Sidebar />
+        <ScrollToTopButton />
         <div className="pt-16">{children}</div>
       </body>
     </html>
