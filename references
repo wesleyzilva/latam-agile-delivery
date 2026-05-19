@@ -9,40 +9,26 @@ Estimated duration: up to 27 minutes
 Focus areas: Strategic Project Management, Data Operations & Process Optimization, Cross-Functional Leadership & Stakeholder Management, GenAI Human Data Projects
 =======================================
 1. Strategic Project Management
-A Pergunta: "Como você garante que projetos complexos mantenham o alinhamento com os objetivos da empresa?"
-Resposta C2:
+Pergunta: How do you keep complex projects aligned with business goals?
+I approach strategic project management by connecting every delivery layer to a clear business outcome.
+My goal is to remove what I call strategic insecurity — situations where teams are busy but not necessarily creating impact.
+I usually start with a macro-to-micro breakdown, ensuring that roadmap milestones are directly tied to measurable outcomes. From there, I focus on reducing operational friction — things like unclear ownership, dependencies, or misaligned priorities.
+In practice, this allows me to turn complex environments into predictable delivery systems, where execution is consistent and aligned with company goals.
 
-"I approach Strategic Project Management through a 'Macro-to-Micro' diagnostic. My priority is to eliminate strategic insecurity by ensuring every milestone is directly mapped to a business outcome. In my imSquad framework, this is orchestrated via the imPO layer, which acts as a gatekeeper for quality and relevance. Instead of just tracking tasks, I manage the operational friction, ensuring that the high-level roadmap translates into predictable, institutional-grade delivery."
+2. Data Ops & Process Optimization
+For me, optimization is less about refactoring and more about building resilient systems.
+I usually look for bottlenecks where data quality impacts delivery speed — that’s where most operational friction lives.
+My approach is to introduce automated validation and monitoring, so the system becomes more proactive instead of reactive.
+The end goal is always capital efficiency — increasing throughput while reducing the need for manual intervention from engineering teams.
 
-2. Data Operations & Process Optimization
-A Pergunta: "Qual é a sua estratégia para otimizar processos de dados sem gerar overhead?"
-Resposta C2:
+3. Cross-functional Leadership
+I see stakeholder management as a process of creating clarity, not consensus.
+In global environments, conflicting priorities are natural, so my role is to make trade-offs explicit and data-driven.
+I typically align discussions around shared metrics — what I call the “North Star” — so decisions are based on impact, not opinion.
+That shifts the conversation from negotiation to alignment, and helps teams operate as a single high-performance unit.
 
-"Optimization is about resilience, not just refactoring. I specialize in identifying bottlenecks where data integrity compromises velocity. By implementing automated validation loops, I transform data operations from a reactive 'firefighting' mode into a proactive, autonomous asset. My goal is always capital efficiency: maximizing the throughput of the data pipeline while reducing the manual intervention required from the engineering team."
-
-3. Cross-Functional Leadership & Stakeholder Management
-A Pergunta: "Como você gerencia stakeholders com interesses conflitantes em projetos globais?"
-Resposta C2:
-
-"Leadership, as I discuss in my book Menu da Transformação, is about finding the right balance of 'ingredients.' I move away from the 'camaraderie' model toward a Strategic Partnership. I manage stakeholders by providing data-driven clarity. When interests conflict, I facilitate the decision-making process by highlighting the impact on the 'North Star' metrics of the project. My role is to be the Master Orchestrator who aligns diverse teams under a single, high-performance narrative."
-
-4. GenAI Human Data Projects
-A Pergunta: "Como você integra IA generativa em fluxos de trabalho humanos com segurança?"
-Resposta C2:
-
-"We are witnessing a shift in human-data interaction. In my Latam.AIgile framework, I focus on Augmented Engineering. This means using GenAI to handle boilerplate and syntax, while human experts focus on architecture and strategic edge cases. For GenAI projects, I prioritize governance and ethical resilience, ensuring that the AI-driven output meets institutional standards. It's about creating an infinite loop where human intuition guides AI velocity."
-
-🛠️ Dicas de Ouro para a Semana 5 (Baseado no seu Plano):
-A Mensagem Única: Antes de cada resposta, pense: "Eu estou vendendo o processo ou o resultado?" (Venda sempre o resultado/decisão).
-
-O Tom de Voz: Fale com a naturalidade de quem domina o tema. Se a Maya te apertar em um ponto técnico, use a frase: "That's an interesting technical nuance; however, from a strategic standpoint, the priority is..." (Isso te devolve o controle da conversa).
-
-Vocabulário C2 para praticar:
-
-Operational Friction (em vez de "problems").
-
-Institutional-Grade (em vez de "very good quality").
-
-Strategic Insecurity (em vez de "uncertainty").
-
-Leveraging (em vez de "using").
+4. GenAI Projects
+I see GenAI as a way to augment engineering, not replace it.
+My approach is to let AI handle repetitive and low-leverage tasks, while humans focus on architecture, decision-making, and edge cases.
+At the same time, I place strong emphasis on governance — ensuring outputs meet quality, security, and compliance standards.
+The goal is to create a feedback loop where human judgment guides AI, and AI accelerates delivery.
